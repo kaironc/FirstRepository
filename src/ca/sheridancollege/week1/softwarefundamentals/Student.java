@@ -13,6 +13,9 @@ public class Student {
     
     private String name;
     private int ID;
+    private String email;
+    private String program;
+    
 
     public int getID() {
         return ID;
